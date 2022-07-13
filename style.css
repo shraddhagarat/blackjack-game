@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url("images/engin-akyurt-HEMIBJ8QQuA-unsplash.jpg");
+    background-size: cover ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: rgb(250, 249, 249);
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod ;
+    margin-top: 75px ;
+    font-size: 75px;
+}
+
+#message-el {
+    font-style: italic;
+    font-size: 55px;
+}
+p {
+    margin-top: 45px;
+    font-size: 35px;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    margin-top: 20px;
+    padding: 10px;
+    border: none ;
+    font-weight: bold;
+    border-radius: 2px;
+}
